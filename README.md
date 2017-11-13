@@ -1,5 +1,5 @@
 Pre-built OpenSSL for CrystaX NDK
 =================================
 
-These libraries are for CrystaX NDK version 10.3.1
+These libraries are for CrystaX NDK nightly version **b1028** (nightly build from August 31, 2017)
 
